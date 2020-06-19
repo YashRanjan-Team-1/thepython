@@ -179,8 +179,6 @@ if player == secretWord:
                         
                         
 
-                    
-
               
 
 
@@ -344,7 +342,7 @@ if player == secretWord2:
 
 
 
-
+Hello?
  
 
             
